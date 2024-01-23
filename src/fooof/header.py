@@ -2,7 +2,7 @@
 Information about this package.
 """
 # Header #
-__package_name__ = "templatepackage"
+__package_name__ = "fooof"
 
 __author__ = "Anthony Fong"
 __credits__ = ["Anthony Fong"]

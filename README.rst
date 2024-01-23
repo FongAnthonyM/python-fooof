@@ -1,4 +1,4 @@
-templatepackage
+fooof
 ============
 
 |PyPI| |Status| |Python Version| |License|
@@ -7,26 +7,26 @@ templatepackage
 
 |pre-commit| |Black|
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/templatepackage.svg
-   :target: https://pypi.org/project/templatepackage/
+.. |PyPI| image:: https://img.shields.io/pypi/v/fooof.svg
+   :target: https://pypi.org/project/fooof/
    :alt: PyPI
-.. |Status| image:: https://img.shields.io/pypi/status/templatepackage.svg
-   :target: https://pypi.org/project/templatepackage/
+.. |Status| image:: https://img.shields.io/pypi/status/fooof.svg
+   :target: https://pypi.org/project/fooof/
    :alt: Status
-.. |Python Version| image:: https://img.shields.io/pypi/pyversions/templatepackage
-   :target: https://pypi.org/project/templatepackage
+.. |Python Version| image:: https://img.shields.io/pypi/pyversions/fooof
+   :target: https://pypi.org/project/fooof
    :alt: Python Version
-.. |License| image:: https://img.shields.io/pypi/l/templatepackage
+.. |License| image:: https://img.shields.io/pypi/l/fooof
    :target: https://opensource.org/licenses/MIT
    :alt: License
-.. |Read the Docs| image:: https://img.shields.io/readthedocs/python-templatepackage/latest.svg?label=Read%20the%20Docs
-   :target: https://python-templatepackage.readthedocs.io/
-   :alt: Read the documentation at https://python-templatepackage.readthedocs.io/
-.. |Tests| image:: https://github.com/fongant/python-templatepackage/workflows/Tests/badge.svg
-   :target: https://github.com/fongant/templatepackage/actions?workflow=Tests
+.. |Read the Docs| image:: https://img.shields.io/readthedocs/python-fooof/latest.svg?label=Read%20the%20Docs
+   :target: https://python-fooof.readthedocs.io/
+   :alt: Read the documentation at https://python-fooof.readthedocs.io/
+.. |Tests| image:: https://github.com/fongant/python-fooof/workflows/Tests/badge.svg
+   :target: https://github.com/fongant/fooof/actions?workflow=Tests
    :alt: Tests
-.. |Codecov| image:: https://codecov.io/gh/fongant/python-templatepackage/branch/main/graph/badge.svg
-   :target: https://codecov.io/gh/fongant/python-templatepackage
+.. |Codecov| image:: https://codecov.io/gh/fongant/python-fooof/branch/main/graph/badge.svg
+   :target: https://codecov.io/gh/fongant/python-fooof
    :alt: Codecov
 .. |pre-commit| image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
    :target: https://github.com/pre-commit/pre-commit
@@ -51,11 +51,11 @@ Requirements
 Installation
 ------------
 
-You can install *templatepackage* via pip_ from PyPI_:
+You can install *fooof* via pip_ from PyPI_:
 
 .. code:: console
 
-   $ pip install templatepackage
+   $ pip install fooof
 
 
 Usage
@@ -75,7 +75,7 @@ License
 -------
 
 Distributed under the terms of the `MIT license`_,
-*templatepackage* is free and open source software.
+*fooof* is free and open source software.
 
 
 Issues
@@ -95,8 +95,8 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. _MIT license: https://opensource.org/licenses/MIT
 .. _PyPI: https://pypi.org/
 .. _Hypermodern Python Cookiecutter: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-.. _file an issue: https://github.com/fongant/python-templatepackage/issues
+.. _file an issue: https://github.com/fongant/python-fooof/issues
 .. _pip: https://pip.pypa.io/
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst
-.. _Usage: https://python-templatepackage.readthedocs.io/en/latest/usage.html
+.. _Usage: https://python-fooof.readthedocs.io/en/latest/usage.html

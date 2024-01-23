@@ -6,8 +6,8 @@ Reference
     :backlinks: none
 
 
-templatepackage.__main__
+fooof.__main__
 --------------------
 
-.. automodule:: templatepackage.__main__
+.. automodule:: fooof.__main__
    :members:

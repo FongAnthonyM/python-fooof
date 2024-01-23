@@ -1,22 +1,22 @@
 [tool.poetry]
-name = "templatepackage"
+name = "fooof"
 version = "0.0.0"
 description = "Basic object templates."
 authors = ["Anthony Fong <FongAnthonyM@gmail.com>"]
 license = "MIT"
 readme = "README.rst"
-homepage = "https://github.com/fongant/python-templatepackage"
-repository = "https://github.com/fongant/python-templatepackage"
-documentation = "https://python-templatepackage.readthedocs.io"
+homepage = "https://github.com/fongant/python-fooof"
+repository = "https://github.com/fongant/python-fooof"
+documentation = "https://python-fooof.readthedocs.io"
 packages = [
-    { include = "templatepackage", from = "src" },
+    { include = "fooof", from = "src" },
 ]
 classifiers = [
     "Development Status :: 1 - Prototype",
 ]
 
 [tool.poetry.urls]
-Changelog = "https://github.com/fongant/python-templatepackage/releases"
+Changelog = "https://github.com/fongant/python-fooof/releases"
 
 [tool.poetry.dependencies]
 python = ">=3.11,<4.0"
@@ -49,14 +49,14 @@ xdoctest = {extras = ["colors"], version = ">=0.15.10"}
 myst-parser = {version = ">=0.16.1"}
 
 [tool.poetry.scripts]
-python-templatepackage = "templatepackage.__main__:main"
+python-fooof = "fooof.__main__:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
 
 [tool.coverage.run]
 branch = true
-source = ["templatepackage"]
+source = ["fooof"]
 
 [tool.coverage.report]
 show_missing = true

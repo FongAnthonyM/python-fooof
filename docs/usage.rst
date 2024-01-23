@@ -1,6 +1,6 @@
 Usage
 =====
 
-.. click:: templatepackage.__main__:main
-   :prog: python-templatepackage
+.. click:: fooof.__main__:main
+   :prog: python-fooof
    :nested: full
